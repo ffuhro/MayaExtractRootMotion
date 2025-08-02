@@ -1,3 +1,5 @@
+# This is a quick and dirty script.
+
 # Maya Extract Root Motion
 Python script to extract the location root motion in Maya.
 ##### This is the first version of this script.
